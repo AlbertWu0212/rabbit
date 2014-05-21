@@ -1,0 +1,40 @@
+//
+// Prefix header for all source files of the 'rabbitSister' target in the 'rabbitSister' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #define _AFNETWORKING_ALLOW_INVALID_SSL_CERTIFICATES_
+    #define _AFNETWORKING_PIN_SSL_CERTIFICATES_
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "PublicDefine.h"
+    #import "PSSFileOperations.h"
+    #import "BasePublicClient.h"
+    #import <AddressBook/AddressBook.h>
+    #import "RabbitMKNetwork.h"
+    #import "MKNetworkEngine.h"
+    #import "WPXMLRPCEncoder.h"
+    #import "WPXMLRPCDecoder.h"
+
+    #import "JTMappings.h"
+    #import "NSObject+JTObjectMapping.h"
+    #import "XMLRPCResult.h"
+    #import "IQKeyBoardManager.h"
+    #import "IQTextView.h"
+    #import "SDWebImageManager.h"
+
+    #import "rabbitAppDelegate.h"
+#endif
+
+#define IS_HEIGHT_GTE_568 [[UIScreen mainScreen ] bounds].size.height >= 568.0f
+#define IS_IPHONE_5 ( IS_HEIGHT_GTE_568 )   //判断ip5
+//forbid10
+//ownerblood

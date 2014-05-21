@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>repair</key>
+	<dict>
+		<key>title</key>
+		<string>修理 30-60元/时</string>
+		<key>mainChoose</key>
+		<array>
+			<string>门锁</string>
+			<string>水电</string>
+			<string>皮具</string>
+			<string>针线</string>
+			<string>家具</string>
+			<string>其他</string>
+		</array>
+		<key>certificate</key>
+		<array>
+			<string>技师证</string>
+			<string>简历</string>
+		</array>
+	</dict>
+	<key>beauty</key>
+	<dict>
+		<key>title</key>
+		<string>美容 30-60元/时</string>
+		<key>mainChoose</key>
+		<array>
+			<string>美容</string>
+			<string>美甲</string>
+			<string>绣眉</string>
+			<string>其他</string>
+		</array>
+		<key>certificate</key>
+		<array>
+			<string>健康证</string>
+			<string>技师证</string>
+			<string>简历</string>
+		</array>
+	</dict>
+	<key>houseKeeping</key>
+	<dict>
+		<key>title</key>
+		<string>家政 30-60元/时</string>
+		<key>mainChoose</key>
+		<array>
+			<string>保洁</string>
+			<string>烫衣</string>
+			<string>陪护</string>
+			<string>家厨</string>
+			<string>月嫂</string>
+		</array>
+		<key>certificate</key>
+		<array>
+			<string>健康证</string>
+			<string>上岗证</string>
+			<string>技师证</string>
+			<string>简历</string>
+		</array>
+	</dict>
+	<key>care</key>
+	<dict>
+		<key>title</key>
+		<string>保健 30-60元/时</string>
+		<key>mainChoose</key>
+		<array>
+			<string>按摩</string>
+			<string>足道</string>
+			<string>修脚</string>
+			<string>刮痧</string>
+			<string>火罐</string>
+		</array>
+		<key>certificate</key>
+		<array>
+			<string>健康证</string>
+			<string>技师证</string>
+			<string>简历</string>
+		</array>
+	</dict>
+</dict>
+</plist>

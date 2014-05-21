@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infor</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>Radish1.png</string>
+			<key>title</key>
+			<string>信用评价</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>money.png</string>
+			<key>title</key>
+			<string>我的账户</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>tool.png</string>
+			<key>title</key>
+			<string>设置</string>
+		</dict>
+	</array>
+</dict>
+</plist>

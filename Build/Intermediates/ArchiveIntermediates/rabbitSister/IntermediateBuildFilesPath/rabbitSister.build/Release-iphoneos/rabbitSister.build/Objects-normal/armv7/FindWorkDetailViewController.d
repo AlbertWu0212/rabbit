@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/FindWorkDetailViewController.m \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/SubmitAuction.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/RabbitBaseRequester.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/RecorderManager.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/Encapsulator.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/SpeexCodec.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/SpeexAllHeaders.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/ogg.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/os_types.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_bits.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_types.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_buffer.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_callbacks.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_config_types.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_echo.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_header.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_jitter.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_preprocess.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/speex_stereo.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/PlayerManager.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/Decapsulator.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AnimationEffects.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/BiddingNotice.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/PSSBaseRequester.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/MainNetWorkClient.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFNetworking.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFURLConnectionOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFHTTPRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFJSONRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFXMLRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFPropertyListRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFHTTPClient.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFImageRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFNetworkActivityIndicatorManager.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/UIImageView+AFNetworking.h

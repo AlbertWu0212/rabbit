@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infor</key>
+	<array>
+		<array>
+			<string>车驾服务</string>
+			<string>叫车：</string>
+			<string>代接送客：</string>
+			<string>代运货：</string>
+			<string>车辆：</string>
+			<string>22:00前/22:00后/24:00后</string>
+		</array>
+		<array>
+			<string>跑腿服务</string>
+			<string>代购</string>
+			<string>餐饮、小卖、菜市、药店、商店</string>
+			<string>代办</string>
+			<string>排队、挂号、缴费、代劳</string>
+			<string>速递</string>
+			<string>单程、往返、中转</string>
+		</array>
+		<array>
+			<string>驾驶证</string>
+		</array>
+		<array>
+			<string>运营证</string>
+		</array>
+		<array>
+			<string>车型</string>
+			<string>车色</string>
+			<string>车牌</string>
+			<string>驾龄</string>
+		</array>
+	</array>
+</dict>
+</plist>

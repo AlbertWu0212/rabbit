@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infor</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>registeTitleLogoPaotui.png</string>
+			<key>firstLine</key>
+			<string>服务范围：代购、代办、速递</string>
+			<key>secondLine</key>
+			<string>报价确认后，先付款后服务</string>
+			<key>thirdLine</key>
+			<string>日满勤服务：200-400元</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>registeTitleLogoKaiche.png</string>
+			<key>firstLine</key>
+			<string>服务范围：代接客、代运货、代驾、叫车、跑腿服务</string>
+			<key>secondLine</key>
+			<string>报价确认后，先付款后服务</string>
+			<key>thirdLine</key>
+			<string>日满勤服务：300-500元</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>registeTitleAddInDoor.png</string>
+			<key>firstLine</key>
+			<string>服务范围：家政、保健、美容、修理、家厨</string>
+			<key>secondLine</key>
+			<string>报价确认后，先付款后服务</string>
+			<key>thirdLine</key>
+			<string>日满勤服务：200-500元不等</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>registeTitleLogoBangbang.png</string>
+			<key>firstLine</key>
+			<string>旅行顺便服务：专职代驾、跨地代购、跨地速递、跨地捎客、跨地捎货</string>
+			<key>secondLine</key>
+			<string>报价确认后，先付款后服务</string>
+			<key>thirdLine</key>
+			<string>每次顺带收入：50-300元不等</string>
+		</dict>
+	</array>
+</dict>
+</plist>

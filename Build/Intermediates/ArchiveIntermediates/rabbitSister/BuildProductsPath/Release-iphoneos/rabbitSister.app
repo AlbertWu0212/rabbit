@@ -1,0 +1,1 @@
+/Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/Build/Intermediates/ArchiveIntermediates/rabbitSister/InstallationBuildProductsLocation/Applications/rabbitSister.app

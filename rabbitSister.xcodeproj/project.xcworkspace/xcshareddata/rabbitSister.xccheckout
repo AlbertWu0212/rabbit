@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3CE9AD8E-7AB1-4544-940A-1A7DAA2F4D82</string>
+	<key>IDESourceControlProjectName</key>
+	<string>rabbitSister</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>402FAAA4-9E41-45C5-953E-86F7528B30E1</key>
+		<string>svn://svn.elle.cn/rabbit</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOS/rabbitMain/rabbit/rabbitSister.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>402FAAA4-9E41-45C5-953E-86F7528B30E1</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>402FAAA4-9E41-45C5-953E-86F7528B30E1</key>
+		<string>svn://svn.elle.cn/rabbit</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://svn.elle.cn/rabbit/ios/rabbit/rabbitSister.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>402FAAA4-9E41-45C5-953E-86F7528B30E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>402FAAA4-9E41-45C5-953E-86F7528B30E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rabbit</string>
+		</dict>
+	</array>
+</dict>
+</plist>

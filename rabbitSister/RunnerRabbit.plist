@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infor</key>
+	<array>
+		<array>
+			<string>代购 15-60元/次</string>
+			<string>餐饮、小卖、菜市、药店、商店</string>
+		</array>
+		<array>
+			<string>代办 30-100元/次</string>
+			<string>排队、挂号、缴费、代劳</string>
+		</array>
+		<array>
+			<string>速递 15-60元/次</string>
+			<string>单程、往返、中转</string>
+		</array>
+	</array>
+</dict>
+</plist>

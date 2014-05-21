@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/MatterViewController.m \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AnimationEffects.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/biddingRequest.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/RabbitBaseRequester.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/GetRabbitMission.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/GetMissionDetail.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/DropMission.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/PSSBaseRequester.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/MainNetWorkClient.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFNetworking.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFURLConnectionOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFHTTPRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFJSONRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFXMLRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFPropertyListRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFHTTPClient.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFImageRequestOperation.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/AFNetworkActivityIndicatorManager.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/UIImageView+AFNetworking.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/OverMission.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/cancelMission.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/startMission.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/HttpsStartMission.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/MapViewController.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/LoadingMoreFooterView.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/EGORefreshTableHeaderView.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/BiddingDetailRequest.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/WiningOverRequest.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/phoneCall.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/GetServerTime.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/MissionOverEmployer.h \
+  /Users/taofeng/svn/rabbitNew/rabbit/IOS/rabbitMain/rabbit/rabbitSister/SoundPlayer.h
